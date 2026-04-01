@@ -4,4 +4,4 @@
 pip install -r requirements.txt
 
 ## Запуск тестов
-pytest
+пропишите pytest в командной строке из корня проекта
